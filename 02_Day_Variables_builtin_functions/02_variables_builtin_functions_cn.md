@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 2 - Variables, Builtin Functions</h1>
+  <h1> python 30天: 第二天 - 变量, 内置函数</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -11,10 +11,9 @@
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
 <small> Second Edition: July, 2021</small>
 </sub>
-
 </div>
 
-[<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
+[<< 第一天](../readme.md) | [第三天 >>](../03_Day_Operators/03_operators.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
@@ -31,23 +30,22 @@
 
 # 📘 Day 2
 
-## Built in functions
+## Built-in functions
 
-In Python we have lots of built-in functions. Built-in functions are globally available for your use that mean you can make use of the built-in functions without importing or configuring. Some of the most commonly used Python built-in functions are the following: _print()_, _len()_, _type()_, _int()_, _float()_, _str()_, _input()_, _list()_, _dict()_, _min()_, _max()_, _sum()_, _sorted()_, _open()_, _file()_, _help()_, and _dir()_. In the following table you will see an exhaustive list of Python built-in functions taken from [python documentation](https://docs.python.org/3.9/library/functions.html).
-
+在python中有许多内置函数。内置函数是全局可用的，也就是说你不需要通过任何导入或者配置。下面是一些经常使用的内置函数：print(), len(), type(), int(), float(), str(), input(), list(), dict(), min(), max(), sum(), sorted(), open(), file(), help(), and dir().在下面这张表中有详细的取自[python文档](https://docs.python.org/3.9/library/functions.html) 的内置函数。
 ![Built-in Functions](../images/builtin-functions.png)
 
-Let us open the Python shell and start using some of the most common built-in functions.
+打开python shell，尝试一下常用的内置函数吧。
 
 ![Built-in functions](../images/builtin-functions_practice.png)
 
-Let us practice more by using different built-in functions
+多加练习，使用不同的内建函数
 
 ![Help and Dir Built in Functions](../images/help_and_dir_builtin.png)
 
-As you can see from the terminal above, Python has got reserved words. We do not use reserved words to declare variables or functions. We will cover variables in the next section.
+正如你从控制台中所见，python中有很多保留字。我们不能用这些保留字去声明一个变量或者函数。下一节我们会提到变量
 
-I believe, by now you are familiar with built-in functions. Let us do one more practice of built-in functions and we will move on to the next section.
+我相信你现在很熟悉内置函数了，让我们做一些练习然后开始下一节
 
 ![Min Max Sum](../images/builtin-functional-final.png)
 
